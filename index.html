@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>reveal.js</title>
+
+    <link rel="stylesheet" href="dist/reset.css" />
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/night.css" />
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css" />
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section data-auto-animate>
+          <h2 style="color: red" ;>Goldener Schnitt</h2>
+          <h3 style="color: red";>Drittel-Regel</h3>
+        </section>
+        <section data-auto-animate>
+          <h2 style="color: rgb(47, 178, 143)" ;>Goldener Schnitt</h2>
+          <h3 style="color: rgb(47, 178, 143)";>Drittel-Regel</h3>
+          <p style="font-size: 20px; font-weight: bold">
+            ✍️ Mathias Schuh
+          </p>
+        </section>
+
+        <section
+          data-markdown="markdown.md"
+          data-background-color="rgb(100, 80, 255)"
+          data-background-gradient="linear-gradient(to bottom, #283b95, #17b2c3)"
+        >
+        </section>
+<section>
+        <section 
+        data-background="images/mj.gif" 
+        data-background-transition="zoom"
+        >
+          <h2 style="font-weight: bold">👋 Fragen sind erwünscht</h2>
+        </section>
+
+        <section
+        data-background-transition="zoom"
+        data-markdown
+        data-auto-animate
+        >
+        ## ✨ Sources ✨
+
+          - [wikipedia.org/wiki/Goldener_Schnitt](https://de.wikipedia.org/wiki/Goldener_Schnitt)
+          - [typolexikon.de/goldener-schnitt](https://www.typolexikon.de/goldener-schnitt/)
+          - [michael-holzapfel.de](https://www.michael-holzapfel.de/themen/goldenerschnitt/gs-arch-kunst/gs-arch-kunst.htm)
+          - [golden-section.eu/kapitel5.html](http://www.golden-section.eu/kapitel5.html)
+        </section>
+</section>
+      </div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script>
+      // ![](images/pans.png)
+      // [title](https://www.example.com)
+
+      // More info about initialization & config:
+      // - https://revealjs.com/initialization/
+      // - https://revealjs.com/config/
+      
+      Reveal.initialize({
+        hash: true,
+        autoPlayMedia: true,
+        progress: true,
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      });
+    </script>
+  </body>
+</html>
