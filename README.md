@@ -1,4 +1,4 @@
-# WPAN PRESENTATION 
+# MDT PRESENTATION 
 made with Reveal JS and Markdown language
 
 
@@ -10,8 +10,8 @@ made with Reveal JS and Markdown language
 Use `git` to clone the site and navigate into it:
 
 ```sh
-git clone git@github.com:Satalicious/wpan_presentation.git
-cd wpan_presentation
+git clone git@github.com:Satalicious/gs_presentation.git
+cd gs_presentation
 ```
 
 ### 2. **Install dependencies.**
