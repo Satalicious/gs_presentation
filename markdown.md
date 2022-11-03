@@ -11,15 +11,15 @@
 <h1 style="color:rgb(47, 178, 143); font-size: 90px;">Erklärung</h1>
 
 - Sehr häufig in Natur und Mensch
-- Anatomische Genauigkeit bei Menschen
-- Naheliegend, dass Mensch dies als angenehm oder schön empfindet
-
-<h5 style="color:rgb(47, 178, 143); font-size: 50px;">Anwendungen</h5>
-
-- Wiederherstellung bestimmter Körperteile 
-- Moderne Schönheitschirurgie & Zahnmedizin
+- Naheliegend, dass Mensch dies als angenehm / schön empfindet
 
 ---
+
+<h1 style="color:rgb(47, 178, 143); font-size: 70px;">Moderne Anwendungen</h1>
+
+- Anatomische Genauigkeit bei Menschen
+- Wiederherstellung bestimmter Körperteile 
+- Moderne Schönheitschirurgie & Zahnmedizin
 
 ![](images/abb10.jpg)
 ![](images/abb11.jpg)
@@ -69,8 +69,8 @@ a = 1, b = √5
 
 <h1 style="color:rgb(47, 178, 143); font-size: 90px;">Bildkomposition</h1>
 
-##### 4 goldene Schnittachsen schneiden sich an 4 Bildpunkten 
-##### auch Harmoniepunkte genannt
+###### 4 goldene Schnittachsen schneiden sich an 4 Bildpunkten 
+###### - auch Harmoniepunkte genannt
 
 ---
 
@@ -98,6 +98,22 @@ a = 1, b = √5
 
 ---
 
+![](images/clock.png)
+
+---
+
+![](images/clock_gs.png)
+
+---
+
+<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Drittelregel</h1>
+
+- je 2 horizontale und vertikale Linien
+- wir erhalten 9 gleich große Teile
+- Schnittpunkte / Linien sind Hauptmerkmale
+
+---
+
 ![](images/tree.png)
 
 ---
@@ -106,11 +122,7 @@ a = 1, b = √5
 
 ---
 
-![](images/clock.png)
-
----
-
-![](images/clock_gs.png)
+![](images/bunnies_dr.jpg)
 
 ---
 
