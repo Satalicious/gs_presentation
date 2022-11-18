@@ -56,7 +56,6 @@ a = 1, b = √5
 
 ![](images/gs-calatrava.jpg)
 
-
 ---
 
 <h1 style="color:rgb(47, 178, 143); font-size: 90px;">Bildkomposition</h1>
